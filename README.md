@@ -14,7 +14,7 @@
 
 | 🌙 Dark Mode | ☀️ Light Mode |
 | :---: | :---: |
-<img width="233" height="89" alt="{68C04C71-C25F-4CFE-81EA-796A0CD9692D}" src="https://github.com/user-attachments/assets/49f12baf-8a0b-4ce9-89d5-8a54c19f8746" /> <img width="238" height="99" alt="{6EF479B8-EF30-4A84-AC52-4C48DEB171BE}" src="https://github.com/user-attachments/assets/006b9630-9b01-4af1-bb2a-636b8a82eb12" />
+| <img width="233" height="89" alt="{68C04C71-C25F-4CFE-81EA-796A0CD9692D}" src="https://github.com/user-attachments/assets/49f12baf-8a0b-4ce9-89d5-8a54c19f8746" /> |  <img width="238" height="99" alt="{6EF479B8-EF30-4A84-AC52-4C48DEB171BE}" src="https://github.com/user-attachments/assets/006b9630-9b01-4af1-bb2a-636b8a82eb12" /> |
 
 
 
